@@ -17,7 +17,7 @@ public class Ex05 {
 			sum = sum+num[i];
 			
 		}
-		System.out.println("평균은 " + (sum/5) + " 입니다.");
+		System.out.println("평균은 " + (sum/num.length) + " 입니다.");
 		
 		
 		
